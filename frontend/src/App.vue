@@ -10,5 +10,6 @@
     }
 </script>
 
-<style>
+<style lang="sass">
+    @import "styles/styles"
 </style>
